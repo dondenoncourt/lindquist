@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <link rel="import" href="chapters/ch_1_korea.html">
+  </head>
+  <iframe src="chapters/ch_1_korea.html" seamless></iframe>
+  <object type="text/html" data="chapters/ch_1_korea.html">
+    <p>backup content</p>
+  </object>
+  <include src="chapters/ch_1_korea.html">Loading...</include>
+    <script>
+      (() => {
+        console.log('runnning');
+        const includes = document.getElementsByTagName('include');
+        [].forEach.call(includes, i => {
+            let filePath = i.getAttribute('src');
+            fetch(filePath).then(file => {
+              file.text().then(content => {
+                i.insertAdjacentHTML('afterend', content);
+                i.remove();
+              });
+            });
+          });
+      })();
+    </script>
+</html>
