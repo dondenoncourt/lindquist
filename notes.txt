@@ -1,0 +1,3 @@
+
+regex:
+:% s/^\(\w.*\)$/<p class='left'>\1<\/p>/g
