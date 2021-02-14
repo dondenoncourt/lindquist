@@ -1,3 +1,7 @@
 
 regex:
 :% s/^\(\w.*\)$/<p class='left'>\1<\/p>/g
+
+after wrapping with <i> and </i>:
+s/>"/>“/g
+s/"</”</g
