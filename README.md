@@ -17,4 +17,4 @@ chapter 5:
 https://htmlpreview.github.io/?https://github.com/dondenoncourt/lindquist/blob/master/chapters/ch_5_do_and_see.html
 
 
-<a href="https://htmlpreview.github.io/?https://github.com/dondenoncourt/lindquist/blob/master/chapters/ch_5_do_and_see.html" target="_blank">Chapter 5</a>
+<a onclick="window.open('https://htmlpreview.github.io/?https://github.com/dondenoncourt/lindquist/blob/master/chapters/ch_5_do_and_see.html')" >Chapter 5</a>
