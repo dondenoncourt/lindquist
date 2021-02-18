@@ -1,5 +1,8 @@
 # lindquist
 
+All Chapters:
+https://htmlpreview.github.io/?https://github.com/dondenoncourt/lindquist/blob/master/chapters/all.html
+
 Introduction:
 https://htmlpreview.github.io/?https://github.com/dondenoncourt/lindquist/blob/master/chapters/ch_0_intro.html
 
@@ -15,8 +18,3 @@ https://htmlpreview.github.io/?https://github.com/dondenoncourt/lindquist/blob/m
 
 chapter 5:
 https://htmlpreview.github.io/?https://github.com/dondenoncourt/lindquist/blob/master/chapters/ch_5_do_and_see.html
-
-
-<a href="https://htmlpreview.github.io/?https://github.com/dondenoncourt/lindquist/blob/master/chapters/ch_5_do_and_see.html" target="_blank">Chapter 5</a>
-
-<a href="https://htmlpreview.github.io/?https://github.com/dondenoncourt/lindquist/blob/master/chapters/ch_5_do_and_see.html" title='title' onclick="window.open('https://htmlpreview.github.io/?https://github.com/dondenoncourt/lindquist/blob/master/chapters/ch_5_do_and_see.html');return false" >Chapter 5</a>
