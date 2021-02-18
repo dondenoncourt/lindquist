@@ -19,4 +19,4 @@ https://htmlpreview.github.io/?https://github.com/dondenoncourt/lindquist/blob/m
 
 <a onclick="window.open('https://htmlpreview.github.io/?https://github.com/dondenoncourt/lindquist/blob/master/chapters/ch_5_do_and_see.html');return false" >Chapter 5</a>
 
-<a title='title' onclick="window.open('https://htmlpreview.github.io/?https://github.com/dondenoncourt/lindquist/blob/master/chapters/ch_5_do_and_see.html');return false" >Chapter 5</a>
+<a href="google.com" title='title' onclick="window.open('https://htmlpreview.github.io/?https://github.com/dondenoncourt/lindquist/blob/master/chapters/ch_5_do_and_see.html');return false" >Chapter 5</a>
