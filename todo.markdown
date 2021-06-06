@@ -1,13 +1,5 @@
 
-regex:
-:% s/^\(\w.*\)$/<p class='left'>\1<\/p>/g
-
-after wrapping with <i> and </i>:
-s/>"/>“/g
-s/"</”</g
-
-
-
+# change dates for HTML
 Apr 11 08:59 all.html
 Feb 17 19:07 ch_0_intro.html
 Feb 14 08:50 ch_1_korea.html
@@ -17,10 +9,15 @@ Feb 21 09:11 ch_4_tatsuo_and_the_ronin.html
 Feb 21 18:35 ch_5_do_and_see.html
 Feb 21 14:41 ch_6_70s_lindquist_workout.html
 Feb 21 14:39 ch_7_70s_black_belts.html
-Apr 11 08:55 ch_8_capitalist.html
 Feb 21 18:28 ch_9_bretz_kotz_denon.html
+Apr 11 08:55 ch_8_capitalist.html
 
 
 
+# google docs changed since HTML:
 
 0, 8, 9, 10, 11
+
+ch_0_intro.html
+ch_8_capitalist.html
+ch_9_bretz_kotz_denon.html
