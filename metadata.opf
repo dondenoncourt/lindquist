@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.48.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f7915a9-03b9-4d72-84be-8cb6972a8e8b</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:title>lindquist</dc:title>
+        <meta content="2021-06-11T17:35:09.157493+00:00" name="calibre:timestamp"/>
+        <meta content="lindquist" name="calibre:title_sort"/>
+        <meta content="{&quot;Unknown&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    </metadata>
+    <manifest>
+      <item id="ch_0" href="/Users/don.denoncourt/git/lindquist/chapters/ch_0_intro.html" meda-type="application/xhtml"/>
+      <item id="ch_1" href="/Users/don.denoncourt/git/lindquist/chapters/ch_1_korea.html" meda-type="application/xhtml"/>
+      <item id="ch_2" href="/Users/don.denoncourt/git/lindquist/chapters/ch_2_Prisoner_of_War.html" meda-type="application/xhtml"/>
+      <item id="ch_3" href="/Users/don.denoncourt/git/lindquist/chapters/ch_3_nichiren_buddhism.html" meda-type="application/xhtml"/>
+      <item id="ch_4" href="/Users/don.denoncourt/git/lindquist/chapters/ch_4_tatsuo_and_the_ronin.html" meda-type="application/xhtml"/>
+      <item id="ch_5" href="/Users/don.denoncourt/git/lindquist/chapters/ch_5_do_and_see.html" meda-type="application/xhtml"/>
+      <item id="ch_6" href="/Users/don.denoncourt/git/lindquist/chapters/ch_6_70s_lindquist_workout.html" meda-type="application/xhtml"/>
+      <item id="ch_7" href="c/Users/don.denoncourt/git/lindquist/hapters/ch_7_70s_black_belts.html" meda-type="application/xhtml"/>
+      <item id="ch_8" href="/Users/don.denoncourt/git/lindquist/chapters/ch_8_capitalist.html" meda-type="application/xhtml"/>
+      <item id="ch_8" href="/Users/don.denoncourt/git/lindquist/chapters/ch_8_capitalist.orig.html" meda-type="application/xhtml"/>
+      <item id="ch_9" href="/Users/don.denoncourt/git/lindquist/chapters/ch_9_bretz_kotz_denon.html" meda-type="application/xhtml"/>
+      <item id="ch_9" href="/Users/don.denoncourt/git/lindquist/chapters/ch_9_bretz_kotz_denon.orig.html" meda-type="application/xhtml"/>
+      <item id="ch_10" href="/Users/don.denoncourt/git/lindquist/chapters/ch_10_honoring_a_master.html" meda-type="application/xhtml"/>
+      <item id="ch_11" href="/Users/don.denoncourt/git/lindquist/chapters/ch_11_millennium_and_millenials.html" meda-type="application/xhtml"/>
+    </manifest>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -24,3 +24,11 @@ Feb 21 18:28 ch_9_bretz_kotz_denon.html
 
 
 0, 8, 9, 10, 11
+
+
+
+/Users/don.denoncourt/Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content
+
+and delete
+	all - Unknown.mbp
+	all - Unknown.mobi

@@ -16,8 +16,18 @@ Apr 11 08:55 ch_8_capitalist.html
 
 # google docs changed since HTML:
 
-0, 8, 9, 10, 11
-
 ch_0_intro.html
-ch_8_capitalist.html
-ch_9_bretz_kotz_denon.html
+
+
+shrink photos
+
+convert to ePub 3
+research current kinkle format standards
+
+
+betz, kotz, denon needs a title photo
+
+POW photo now showing on epub version, may need to download it
+
+
+PTSD spelt wrong
