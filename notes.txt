@@ -10,6 +10,10 @@ s/\(“\)/\<i\>\1/g
 s/\(”\)/\1\<\/i>/g
 
 
+ISBN:
+You will receive an email detailing your order from isbn-san@bowker.com.
+The subject line in the email will include Order ID 1248549.
+978-0-578-94336-7
 
 
 Apr 11 08:59 all.html
@@ -31,7 +35,7 @@ Feb 21 18:28 ch_9_bretz_kotz_denon.html
 
 
 
-/Users/don.denoncourt/Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content
+cd /Users/don.denoncourt/Library/Containers/com.amazon.Kindle/Data/Library/Application\ Support/Kindle/My\ Kindle\ Content
 
 and delete
 	all - Unknown.mbp

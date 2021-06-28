@@ -122,3 +122,8 @@ img.center {
   margin-right: auto;
   width: 50%;
 }
+
+span.smallcap {
+  font-size: 90%;
+  font-weight: bold;
+}
