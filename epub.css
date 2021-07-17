@@ -1,7 +1,7 @@
 p {
   margin-top:0.0em;
   margin-bottom:0.0em;
-  text-indent:1.5em;
+  padding-bottom:0.1em;
   text-align:justify;
 }
 
@@ -17,6 +17,7 @@ p.left {
   margin-bottom: 0.0em;
   text-indent:0.0em;
   text-align:left;
+  text-indent:1.0em;
 }
 
 p.center {
